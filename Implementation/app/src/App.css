@@ -20,7 +20,7 @@ ul {
 }
 
 .bg {
-	background: url('./images/bg.jpg');
+	background: url('./images/bgflag.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 100vh;
@@ -48,7 +48,7 @@ ul {
 	padding-left: 80px;
 }
 .home-button button {
-	background-color: #328888;
+	background-color: #ffffff;
 	border-radius: 5px;
 	padding: 10px;
 	width: 150px;
@@ -130,7 +130,8 @@ ul {
 	margin-top: 100px;
 }
 .profile-bg {
-	background-color: rgb(37, 37, 37);
+	/* background-color: rgb(37, 37, 37); */
+	background: url('./images/profilebg.png');
 	/* min-height: 100vh; */
 	position: fixed;
 	top: 0;

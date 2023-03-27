@@ -10,7 +10,7 @@ export default class Home extends Component {
       <div className="bg">
         <div className="home-text">
           Land Registry
-          <br /> Application
+          <br /> System
           <div className="typewriter">
             {/* Trustable, Transparent and Digitized Platform
             <br />
@@ -19,7 +19,6 @@ export default class Home extends Component {
               cursorColor="#fff"
               multiText={[
                 "Trustable, Transparent and Digitized Platform",
-                "Open for all! Register Now.",
               ]}
             />
           </div>

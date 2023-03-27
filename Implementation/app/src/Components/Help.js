@@ -23,7 +23,7 @@ class Help extends Component {
     return (
       <div className="profile-bg">
         <Container style={{ marginTop: '100px' }} className={classes.root}>
-          <div className="faq-text">FAQ</div>
+          <div className="faq-text">Getting started</div>
           <Accordion>
             <AccordionSummary
               expandIcon={<ExpandMoreIcon />}
